@@ -269,7 +269,6 @@ ORDER BY
 
 To Better understand these results, I created a graph to better disply them.
 
-
 ![ALT TEXT](sql_project\graph_1.png) 
 ***Graph showing the trend of number of job postings and salaries throughout the year. The green plots refer to average salary per month. The blue plots refer to the number of job postings per month***
 
@@ -288,12 +287,13 @@ To conclude, I started this project in order to practice and build on my SQL ski
 
  Through this project I have also concluded that the best time to enter the job market is in the first quarter of the year, with demand and offered salaries both being relatively high in this period, along with September which also shares the same characteristics. 
 
- Overall, his project has helped me plan out my a timetable for my upskilling future employment opportunities over the next 12 months.
+ Overall, his project has helped me plan out a timetable for my upskilling future employment opportunities over the next 12 months.
 
-# LEARNING POINTS 
+# MY COMMENTS 
 
 As previously discussed, I mainly started this project in order to improve and put into practice my SQL skills in a bid to help me to transition to civilian employment.
 
+### What was used
 This project has allowed me to utilise skills I have developed over the past few years of employment such as:
 * Creating Tables
 * Aggregate functions
@@ -302,5 +302,12 @@ This project has allowed me to utilise skills I have developed over the past few
 * CASE statements
 * Grouping
 
+### Skills improved
+
 Over the course of this project, I have become more comfortable using CTE's in queries in a way I wasn’t before. Along with this, I feel a deeper understanding of CASE expressions. During this project, these two skills suddenly 'clicked' in a way they just hadn’t before. This shows the importance repetition and practice with all skills.
 
+### Closing points
+
+Overall, this project was great fun. The more experience you have with problem solving errors, the quicker and easier fault finding will be. On this project the bulk of my fault finding involved searching for an odd typo here and there or fixing syntax errors. Fault finding and problem solving are 2 of the biggest parts of the job from my experience, and it’s always satisfying when you solve them.
+
+Thanks for tanking your time to read this and if you have any comments feel free to drop a message, it’d be much appreciated.
