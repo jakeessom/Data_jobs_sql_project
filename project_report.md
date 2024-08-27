@@ -225,7 +225,7 @@ ORDER BY
     skill_demand.posting_count DESC;
 ```
 ### RESULTS
-![Skill demand and pay](graph_1.png)
+![Skill demand and pay](results_1.png)
 *Results showing highest paid and most in demand skills for data analysts in the United Kingdom in 2023*
 
 From this table we can see that by far, the highest skill is AWS with a salary of $165,000 however the demand for this was low with only 130 job postings desiring the skill in 2023. Therefore, we can assess that it wouldn’t be a high priority to learn compared to jobs which also have high average salaries related to them but with a much higher demand. 
