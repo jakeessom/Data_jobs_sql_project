@@ -312,5 +312,3 @@ Overall, this project was great fun. The more experience you have with problem s
 
 Thanks for tanking your time to read this and if you have any comments feel free to drop a message, it’d be much appreciated.
 
-
-[ASSETS\results_2.png]: ASSETS\results_2.png
