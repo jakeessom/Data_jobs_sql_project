@@ -225,7 +225,7 @@ ORDER BY
     skill_demand.posting_count DESC;
 ```
 ### RESULTS
-![ALT TEXT](sql_project\results_1.png)
+![Skill demand and pay](ASSETS\results_1.png)
 *Results showing highest paid and most in demand skills for data analysts in the United Kingdom in 2023*
 
 From this table we can see that by far, the highest skill is AWS with a salary of $165,000 however the demand for this was low with only 130 job postings desiring the skill in 2023. Therefore, we can assess that it wouldn’t be a high priority to learn compared to jobs which also have high average salaries related to them but with a much higher demand. 
@@ -264,12 +264,12 @@ ORDER BY
 ```
 
 ### RESULTS 
-![ALT TEXT](sql_project\results_2.png)
+![Monthly trends results](ASSETS\results_2.png)
 ***Results of the query in table form***
 
 To Better understand these results, I created a graph to better disply them.
 
-![ALT TEXT](sql_project\graph_1.png) 
+![Monthly trends graph](ASSETS\graph_1.png) 
 ***Graph showing the trend of number of job postings and salaries throughout the year. The green plots refer to average salary per month. The blue plots refer to the number of job postings per month***
 
 From the graph, we can see that job Postings peak in January and October and fall in April and December. This trend likely reflects typical hiring cycles, with companies hiring at the start of the year and again in the fall.
@@ -311,3 +311,6 @@ Over the course of this project, I have become more comfortable using CTE's in q
 Overall, this project was great fun. The more experience you have with problem solving errors, the quicker and easier fault finding will be. On this project the bulk of my fault finding involved searching for an odd typo here and there or fixing syntax errors. Fault finding and problem solving are 2 of the biggest parts of the job from my experience, and it’s always satisfying when you solve them.
 
 Thanks for tanking your time to read this and if you have any comments feel free to drop a message, it’d be much appreciated.
+
+
+[ASSETS\results_2.png]: ASSETS\results_2.png
