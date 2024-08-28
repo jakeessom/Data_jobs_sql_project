@@ -285,7 +285,7 @@ To conclude, I started this project in order to practice and build on my SQL ski
 
  During this project, I have assessed that the highest paid skills as a data analyst in the UK are cloud based database systems such as AWS however the demand for these skills are relatively low. The most in demand skills are that are also high paying are the classics such as EXCEL, PYTHON, TABLEAU and of course, SQL whose demand dominates the job market. This shows that the classic skills are the best to focus on during upskilling in order to best suit to employers.
 
- Through this project I have also concluded that the best time to enter the job market is in the first quarter of the year, with demand and offered salaries both being relatively high in this period, along with September which also shares the same characteristics. 
+ Through this project I have also concluded that the best time to enter the job market is in the first quarter of the year, with demand and offered salaries both being relatively high in this period, along withJuly and September which also shares the same characteristics. 
 
  Overall, his project has helped me plan out a timetable for my upskilling future employment opportunities over the next 12 months.
 
